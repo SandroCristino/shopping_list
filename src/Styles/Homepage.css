@@ -1,0 +1,21 @@
+.outerDiv {
+    height: 100vh;
+}
+
+.mainContent {
+    height: 88vh;
+    background-image: url('../Assets/background.jpg');
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 4rem;
+}
+
+.shopButton {
+    position: absolute;
+    align-self: flex-end;
+    font-size: 1.5rem;
+}
+
