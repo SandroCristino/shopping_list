@@ -29,7 +29,7 @@
 ## Features
   - Webpage uses RouteSwitch from React
   - Several tests are included 
-  - Responsive alignment of shopping list component
+  - Responsive alignment of shopping list components
 
 #
 ## Getting Started
