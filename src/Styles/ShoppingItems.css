@@ -1,0 +1,22 @@
+.outerItem {
+    border: 10px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 10000px;
+
+    width: 30vw;
+    display: flex !important;
+    flex-direction: column;
+}
+
+.priceProp {
+    font-weight: 400;
+    color: rgb(75, 69, 69);
+}
+
+.nameProp {
+    font-weight: 700;
+}
+
+.shopPicture {
+    width: 100%;
+}

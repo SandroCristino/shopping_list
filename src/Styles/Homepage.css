@@ -1,9 +1,14 @@
-.outerDiv {
+.outerDivHome {
     height: 100vh;
+    background-color: rgb(212, 212, 152);
+    background-size: cover;
+    background: linear-gradient(to bottom, #1e90ff, #00bfff);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .mainContent {
-    height: 88vh;
+    height: 88%;
     background-image: url('../Assets/background.jpg');
     background-size: cover;
 }
