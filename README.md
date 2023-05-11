@@ -4,10 +4,10 @@
 
 
   <div style="margin-right:10px;">
-    <img src="./src/assets/Homepage.png" alt="screenshot of website" width='500px' />
+    <img src="./src/Assets/Homepage.png" alt="screenshot of website" width='500px' />
   </div>
   <div>
-    <img src="./src/assets/Shoppage.png" alt="screenshot of website" width='500px'/>
+    <img src="./src/Assets/Shoppage.png" alt="screenshot of website" width='500px'/>
   </div>
 
 #
