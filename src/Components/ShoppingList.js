@@ -17,7 +17,6 @@ export default class ShoppingList extends Component {
     constructor() {
         super()
         this.state = {
-            item: '',
             list: [
                 {
                     picture: picture1,
