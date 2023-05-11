@@ -28,8 +28,8 @@ export default function Navbar() {
           id="navbarNav"
         >
           <ul className="navbar-nav ms-auto">
-            <li className="nav-item" to="/">
-              <Link className="nav-link" to="/">
+            <li className="nav-item" to="/home">
+              <Link className="nav-link" to="/home">
                 Home
               </Link>
             </li>
