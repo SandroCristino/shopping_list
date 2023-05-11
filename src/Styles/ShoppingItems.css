@@ -15,8 +15,19 @@
 
 .nameProp {
     font-weight: 700;
+    margin-left: 20px;;
 }
 
 .shopPicture {
     width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    .outerItem {
+        width: 40vw;
+    }
+
+    .nameProp {
+        margin-left: 5px
+    }
 }

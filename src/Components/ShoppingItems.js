@@ -7,7 +7,7 @@ export default function ShoppingItems(props) {
     return (
         <div className='outerItem'>
             <img className="shopPicture" src={picture} />
-            <div className='mx-5 nameProp'>{name}</div>
+            <div className='nameProp'>{name}</div>
             <div className='mx-2 priceProp'>{price}</div>
             <div className='btn btn-info w-100 '>Add To Card</div>
         </div>
